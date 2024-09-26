@@ -12,6 +12,8 @@ The `json` directory has the following files:
 - `messages_to_relay.json` - Messages from client to relay
 - `tags.json` - Tags table
 
+These have been updated for upstream commit `4438b892d8abd189afc75f9f54532ec95f108d9f`.
+
 ## Generation
 
 First, check out the [NIPS](https://github.com/nostr-protocol/nips) repository, then run the script with:
