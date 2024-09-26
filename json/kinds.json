@@ -1,0 +1,1150 @@
+[
+    {
+        "range": [
+            0,
+            0
+        ],
+        "description": "User Metadata",
+        "nips": [
+            1
+        ]
+    },
+    {
+        "range": [
+            1,
+            1
+        ],
+        "description": "Short Text Note",
+        "nips": [
+            1
+        ]
+    },
+    {
+        "range": [
+            2,
+            2
+        ],
+        "description": "Recommend Relay",
+        "nips": []
+    },
+    {
+        "range": [
+            3,
+            3
+        ],
+        "description": "Follows",
+        "nips": [
+            2
+        ]
+    },
+    {
+        "range": [
+            4,
+            4
+        ],
+        "description": "Encrypted Direct Messages",
+        "nips": [
+            4
+        ]
+    },
+    {
+        "range": [
+            5,
+            5
+        ],
+        "description": "Event Deletion Request",
+        "nips": [
+            9
+        ]
+    },
+    {
+        "range": [
+            6,
+            6
+        ],
+        "description": "Repost",
+        "nips": [
+            18
+        ]
+    },
+    {
+        "range": [
+            7,
+            7
+        ],
+        "description": "Reaction",
+        "nips": [
+            25
+        ]
+    },
+    {
+        "range": [
+            8,
+            8
+        ],
+        "description": "Badge Award",
+        "nips": [
+            58
+        ]
+    },
+    {
+        "range": [
+            9,
+            9
+        ],
+        "description": "Group Chat Message",
+        "nips": [
+            29
+        ]
+    },
+    {
+        "range": [
+            10,
+            10
+        ],
+        "description": "Group Chat Threaded Reply",
+        "nips": [
+            29
+        ]
+    },
+    {
+        "range": [
+            11,
+            11
+        ],
+        "description": "Group Thread",
+        "nips": [
+            29
+        ]
+    },
+    {
+        "range": [
+            12,
+            12
+        ],
+        "description": "Group Thread Reply",
+        "nips": [
+            29
+        ]
+    },
+    {
+        "range": [
+            13,
+            13
+        ],
+        "description": "Seal",
+        "nips": [
+            59
+        ]
+    },
+    {
+        "range": [
+            14,
+            14
+        ],
+        "description": "Direct Message",
+        "nips": [
+            17
+        ]
+    },
+    {
+        "range": [
+            16,
+            16
+        ],
+        "description": "Generic Repost",
+        "nips": [
+            18
+        ]
+    },
+    {
+        "range": [
+            17,
+            17
+        ],
+        "description": "Reaction to a website",
+        "nips": [
+            25
+        ]
+    },
+    {
+        "range": [
+            40,
+            40
+        ],
+        "description": "Channel Creation",
+        "nips": [
+            28
+        ]
+    },
+    {
+        "range": [
+            41,
+            41
+        ],
+        "description": "Channel Metadata",
+        "nips": [
+            28
+        ]
+    },
+    {
+        "range": [
+            42,
+            42
+        ],
+        "description": "Channel Message",
+        "nips": [
+            28
+        ]
+    },
+    {
+        "range": [
+            43,
+            43
+        ],
+        "description": "Channel Hide Message",
+        "nips": [
+            28
+        ]
+    },
+    {
+        "range": [
+            44,
+            44
+        ],
+        "description": "Channel Mute User",
+        "nips": [
+            28
+        ]
+    },
+    {
+        "range": [
+            64,
+            64
+        ],
+        "description": "Chess (PGN)",
+        "nips": [
+            64
+        ]
+    },
+    {
+        "range": [
+            818,
+            818
+        ],
+        "description": "Merge Requests",
+        "nips": [
+            54
+        ]
+    },
+    {
+        "range": [
+            1021,
+            1021
+        ],
+        "description": "Bid",
+        "nips": [
+            15
+        ]
+    },
+    {
+        "range": [
+            1022,
+            1022
+        ],
+        "description": "Bid confirmation",
+        "nips": [
+            15
+        ]
+    },
+    {
+        "range": [
+            1040,
+            1040
+        ],
+        "description": "OpenTimestamps",
+        "nips": [
+            3
+        ]
+    },
+    {
+        "range": [
+            1059,
+            1059
+        ],
+        "description": "Gift Wrap",
+        "nips": [
+            59
+        ]
+    },
+    {
+        "range": [
+            1063,
+            1063
+        ],
+        "description": "File Metadata",
+        "nips": [
+            94
+        ]
+    },
+    {
+        "range": [
+            1311,
+            1311
+        ],
+        "description": "Live Chat Message",
+        "nips": [
+            53
+        ]
+    },
+    {
+        "range": [
+            1617,
+            1617
+        ],
+        "description": "Patches",
+        "nips": [
+            34
+        ]
+    },
+    {
+        "range": [
+            1621,
+            1621
+        ],
+        "description": "Issues",
+        "nips": [
+            34
+        ]
+    },
+    {
+        "range": [
+            1622,
+            1622
+        ],
+        "description": "Replies",
+        "nips": [
+            34
+        ]
+    },
+    {
+        "range": [
+            1630,
+            1633
+        ],
+        "description": "Status",
+        "nips": [
+            34
+        ]
+    },
+    {
+        "range": [
+            1971,
+            1971
+        ],
+        "description": "Problem Tracker",
+        "nips": [
+            "nostrocket"
+        ]
+    },
+    {
+        "range": [
+            1984,
+            1984
+        ],
+        "description": "Reporting",
+        "nips": [
+            56
+        ]
+    },
+    {
+        "range": [
+            1985,
+            1985
+        ],
+        "description": "Label",
+        "nips": [
+            32
+        ]
+    },
+    {
+        "range": [
+            1986,
+            1986
+        ],
+        "description": "Relay reviews",
+        "nips": []
+    },
+    {
+        "range": [
+            1987,
+            1987
+        ],
+        "description": "AI Embeddings / Vector lists",
+        "nips": [
+            "NKBIP-02"
+        ]
+    },
+    {
+        "range": [
+            2003,
+            2003
+        ],
+        "description": "Torrent",
+        "nips": [
+            35
+        ]
+    },
+    {
+        "range": [
+            2004,
+            2004
+        ],
+        "description": "Torrent Comment",
+        "nips": [
+            35
+        ]
+    },
+    {
+        "range": [
+            2022,
+            2022
+        ],
+        "description": "Coinjoin Pool",
+        "nips": [
+            "joinstr"
+        ]
+    },
+    {
+        "range": [
+            4550,
+            4550
+        ],
+        "description": "Community Post Approval",
+        "nips": [
+            72
+        ]
+    },
+    {
+        "range": [
+            5000,
+            5999
+        ],
+        "description": "Job Request",
+        "nips": [
+            90
+        ]
+    },
+    {
+        "range": [
+            6000,
+            6999
+        ],
+        "description": "Job Result",
+        "nips": [
+            90
+        ]
+    },
+    {
+        "range": [
+            7000,
+            7000
+        ],
+        "description": "Job Feedback",
+        "nips": [
+            90
+        ]
+    },
+    {
+        "range": [
+            9000,
+            9030
+        ],
+        "description": "Group Control Events",
+        "nips": [
+            29
+        ]
+    },
+    {
+        "range": [
+            9041,
+            9041
+        ],
+        "description": "Zap Goal",
+        "nips": [
+            75
+        ]
+    },
+    {
+        "range": [
+            9467,
+            9467
+        ],
+        "description": "Tidal login",
+        "nips": [
+            "Tidal-nostr"
+        ]
+    },
+    {
+        "range": [
+            9734,
+            9734
+        ],
+        "description": "Zap Request",
+        "nips": [
+            57
+        ]
+    },
+    {
+        "range": [
+            9735,
+            9735
+        ],
+        "description": "Zap",
+        "nips": [
+            57
+        ]
+    },
+    {
+        "range": [
+            9802,
+            9802
+        ],
+        "description": "Highlights",
+        "nips": [
+            84
+        ]
+    },
+    {
+        "range": [
+            10000,
+            10000
+        ],
+        "description": "Mute list",
+        "nips": [
+            51
+        ]
+    },
+    {
+        "range": [
+            10001,
+            10001
+        ],
+        "description": "Pin list",
+        "nips": [
+            51
+        ]
+    },
+    {
+        "range": [
+            10002,
+            10002
+        ],
+        "description": "Relay List Metadata",
+        "nips": [
+            65
+        ]
+    },
+    {
+        "range": [
+            10003,
+            10003
+        ],
+        "description": "Bookmark list",
+        "nips": [
+            51
+        ]
+    },
+    {
+        "range": [
+            10004,
+            10004
+        ],
+        "description": "Communities list",
+        "nips": [
+            51
+        ]
+    },
+    {
+        "range": [
+            10005,
+            10005
+        ],
+        "description": "Public chats list",
+        "nips": [
+            51
+        ]
+    },
+    {
+        "range": [
+            10006,
+            10006
+        ],
+        "description": "Blocked relays list",
+        "nips": [
+            51
+        ]
+    },
+    {
+        "range": [
+            10007,
+            10007
+        ],
+        "description": "Search relays list",
+        "nips": [
+            51
+        ]
+    },
+    {
+        "range": [
+            10009,
+            10009
+        ],
+        "description": "User groups",
+        "nips": [
+            51,
+            29
+        ]
+    },
+    {
+        "range": [
+            10015,
+            10015
+        ],
+        "description": "Interests list",
+        "nips": [
+            51
+        ]
+    },
+    {
+        "range": [
+            10030,
+            10030
+        ],
+        "description": "User emoji list",
+        "nips": [
+            51
+        ]
+    },
+    {
+        "range": [
+            10050,
+            10050
+        ],
+        "description": "Relay list to receive DMs",
+        "nips": [
+            51,
+            17
+        ]
+    },
+    {
+        "range": [
+            10063,
+            10063
+        ],
+        "description": "User server list",
+        "nips": [
+            "blossom"
+        ]
+    },
+    {
+        "range": [
+            10096,
+            10096
+        ],
+        "description": "File storage server list",
+        "nips": [
+            96
+        ]
+    },
+    {
+        "range": [
+            13194,
+            13194
+        ],
+        "description": "Wallet Info",
+        "nips": [
+            47
+        ]
+    },
+    {
+        "range": [
+            21000,
+            21000
+        ],
+        "description": "Lightning Pub RPC",
+        "nips": [
+            "lnpub"
+        ]
+    },
+    {
+        "range": [
+            22242,
+            22242
+        ],
+        "description": "Client Authentication",
+        "nips": [
+            42
+        ]
+    },
+    {
+        "range": [
+            23194,
+            23194
+        ],
+        "description": "Wallet Request",
+        "nips": [
+            47
+        ]
+    },
+    {
+        "range": [
+            23195,
+            23195
+        ],
+        "description": "Wallet Response",
+        "nips": [
+            47
+        ]
+    },
+    {
+        "range": [
+            24133,
+            24133
+        ],
+        "description": "Nostr Connect",
+        "nips": [
+            46
+        ]
+    },
+    {
+        "range": [
+            24242,
+            24242
+        ],
+        "description": "Blobs stored on mediaservers",
+        "nips": [
+            "blossom"
+        ]
+    },
+    {
+        "range": [
+            27235,
+            27235
+        ],
+        "description": "HTTP Auth",
+        "nips": [
+            98
+        ]
+    },
+    {
+        "range": [
+            30000,
+            30000
+        ],
+        "description": "Follow sets",
+        "nips": [
+            51
+        ]
+    },
+    {
+        "range": [
+            30001,
+            30001
+        ],
+        "description": "Generic lists",
+        "nips": [
+            51
+        ]
+    },
+    {
+        "range": [
+            30002,
+            30002
+        ],
+        "description": "Relay sets",
+        "nips": [
+            51
+        ]
+    },
+    {
+        "range": [
+            30003,
+            30003
+        ],
+        "description": "Bookmark sets",
+        "nips": [
+            51
+        ]
+    },
+    {
+        "range": [
+            30004,
+            30004
+        ],
+        "description": "Curation sets",
+        "nips": [
+            51
+        ]
+    },
+    {
+        "range": [
+            30005,
+            30005
+        ],
+        "description": "Video sets",
+        "nips": [
+            51
+        ]
+    },
+    {
+        "range": [
+            30007,
+            30007
+        ],
+        "description": "Kind mute sets",
+        "nips": [
+            51
+        ]
+    },
+    {
+        "range": [
+            30008,
+            30008
+        ],
+        "description": "Profile Badges",
+        "nips": [
+            58
+        ]
+    },
+    {
+        "range": [
+            30009,
+            30009
+        ],
+        "description": "Badge Definition",
+        "nips": [
+            58
+        ]
+    },
+    {
+        "range": [
+            30015,
+            30015
+        ],
+        "description": "Interest sets",
+        "nips": [
+            51
+        ]
+    },
+    {
+        "range": [
+            30017,
+            30017
+        ],
+        "description": "Create or update a stall",
+        "nips": [
+            15
+        ]
+    },
+    {
+        "range": [
+            30018,
+            30018
+        ],
+        "description": "Create or update a product",
+        "nips": [
+            15
+        ]
+    },
+    {
+        "range": [
+            30019,
+            30019
+        ],
+        "description": "Marketplace UI/UX",
+        "nips": [
+            15
+        ]
+    },
+    {
+        "range": [
+            30020,
+            30020
+        ],
+        "description": "Product sold as an auction",
+        "nips": [
+            15
+        ]
+    },
+    {
+        "range": [
+            30023,
+            30023
+        ],
+        "description": "Long-form Content",
+        "nips": [
+            23
+        ]
+    },
+    {
+        "range": [
+            30024,
+            30024
+        ],
+        "description": "Draft Long-form Content",
+        "nips": [
+            23
+        ]
+    },
+    {
+        "range": [
+            30030,
+            30030
+        ],
+        "description": "Emoji sets",
+        "nips": [
+            51
+        ]
+    },
+    {
+        "range": [
+            30040,
+            30040
+        ],
+        "description": "Modular Article Header",
+        "nips": [
+            "NKBIP-01"
+        ]
+    },
+    {
+        "range": [
+            30041,
+            30041
+        ],
+        "description": "Modular Article Content",
+        "nips": [
+            "NKBIP-01"
+        ]
+    },
+    {
+        "range": [
+            30063,
+            30063
+        ],
+        "description": "Release artifact sets",
+        "nips": [
+            51
+        ]
+    },
+    {
+        "range": [
+            30078,
+            30078
+        ],
+        "description": "Application-specific Data",
+        "nips": [
+            78
+        ]
+    },
+    {
+        "range": [
+            30311,
+            30311
+        ],
+        "description": "Live Event",
+        "nips": [
+            53
+        ]
+    },
+    {
+        "range": [
+            30315,
+            30315
+        ],
+        "description": "User Statuses",
+        "nips": [
+            38
+        ]
+    },
+    {
+        "range": [
+            30402,
+            30402
+        ],
+        "description": "Classified Listing",
+        "nips": [
+            99
+        ]
+    },
+    {
+        "range": [
+            30403,
+            30403
+        ],
+        "description": "Draft Classified Listing",
+        "nips": [
+            99
+        ]
+    },
+    {
+        "range": [
+            30617,
+            30617
+        ],
+        "description": "Repository announcements",
+        "nips": [
+            34
+        ]
+    },
+    {
+        "range": [
+            30618,
+            30618
+        ],
+        "description": "Repository state announcements",
+        "nips": [
+            34
+        ]
+    },
+    {
+        "range": [
+            30818,
+            30818
+        ],
+        "description": "Wiki article",
+        "nips": [
+            54
+        ]
+    },
+    {
+        "range": [
+            30819,
+            30819
+        ],
+        "description": "Redirects",
+        "nips": [
+            54
+        ]
+    },
+    {
+        "range": [
+            31890,
+            31890
+        ],
+        "description": "Feed",
+        "nips": [
+            "NUD: Custom Feeds"
+        ]
+    },
+    {
+        "range": [
+            31922,
+            31922
+        ],
+        "description": "Date-Based Calendar Event",
+        "nips": [
+            52
+        ]
+    },
+    {
+        "range": [
+            31923,
+            31923
+        ],
+        "description": "Time-Based Calendar Event",
+        "nips": [
+            52
+        ]
+    },
+    {
+        "range": [
+            31924,
+            31924
+        ],
+        "description": "Calendar",
+        "nips": [
+            52
+        ]
+    },
+    {
+        "range": [
+            31925,
+            31925
+        ],
+        "description": "Calendar Event RSVP",
+        "nips": [
+            52
+        ]
+    },
+    {
+        "range": [
+            31989,
+            31989
+        ],
+        "description": "Handler recommendation",
+        "nips": [
+            89
+        ]
+    },
+    {
+        "range": [
+            31990,
+            31990
+        ],
+        "description": "Handler information",
+        "nips": [
+            89
+        ]
+    },
+    {
+        "range": [
+            34235,
+            34235
+        ],
+        "description": "Video Event",
+        "nips": [
+            71
+        ]
+    },
+    {
+        "range": [
+            34236,
+            34236
+        ],
+        "description": "Short-form Portrait Video Event",
+        "nips": [
+            71
+        ]
+    },
+    {
+        "range": [
+            34237,
+            34237
+        ],
+        "description": "Video View Event",
+        "nips": [
+            71
+        ]
+    },
+    {
+        "range": [
+            34550,
+            34550
+        ],
+        "description": "Community Definition",
+        "nips": [
+            72
+        ]
+    },
+    {
+        "range": [
+            39000,
+            39009
+        ],
+        "description": "Group metadata events",
+        "nips": [
+            29
+        ]
+    }
+]

@@ -1,0 +1,337 @@
+[
+    {
+        "nip": 1,
+        "description": "NIP-01: Basic protocol flow description",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 2,
+        "description": "NIP-02: Follow List",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 3,
+        "description": "NIP-03: OpenTimestamps Attestations for Events",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 4,
+        "description": "NIP-04: Encrypted Direct Message",
+        "deprecation_notice": "**unrecommended**: deprecated in favor of [NIP-17](17.md)"
+    },
+    {
+        "nip": 5,
+        "description": "NIP-05: Mapping Nostr keys to DNS-based internet identifiers",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 6,
+        "description": "NIP-06: Basic key derivation from mnemonic seed phrase",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 7,
+        "description": "NIP-07: `window.nostr` capability for web browsers",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 8,
+        "description": "NIP-08: Handling Mentions",
+        "deprecation_notice": "**unrecommended**: deprecated in favor of [NIP-27](27.md)"
+    },
+    {
+        "nip": 9,
+        "description": "NIP-09: Event Deletion Request",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 10,
+        "description": "NIP-10: Conventions for clients' use of `e` and `p` tags in text events",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 11,
+        "description": "NIP-11: Relay Information Document",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 13,
+        "description": "NIP-13: Proof of Work",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 14,
+        "description": "NIP-14: Subject tag in text events",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 15,
+        "description": "NIP-15: Nostr Marketplace (for resilient marketplaces)",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 17,
+        "description": "NIP-17: Private Direct Messages",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 18,
+        "description": "NIP-18: Reposts",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 19,
+        "description": "NIP-19: bech32-encoded entities",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 21,
+        "description": "NIP-21: `nostr:` URI scheme",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 23,
+        "description": "NIP-23: Long-form Content",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 24,
+        "description": "NIP-24: Extra metadata fields and tags",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 25,
+        "description": "NIP-25: Reactions",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 26,
+        "description": "NIP-26: Delegated Event Signing",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 27,
+        "description": "NIP-27: Text Note References",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 28,
+        "description": "NIP-28: Public Chat",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 29,
+        "description": "NIP-29: Relay-based Groups",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 30,
+        "description": "NIP-30: Custom Emoji",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 31,
+        "description": "NIP-31: Dealing with Unknown Events",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 32,
+        "description": "NIP-32: Labeling",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 34,
+        "description": "NIP-34: `git` stuff",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 35,
+        "description": "NIP-35: Torrents",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 36,
+        "description": "NIP-36: Sensitive Content",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 38,
+        "description": "NIP-38: User Statuses",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 39,
+        "description": "NIP-39: External Identities in Profiles",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 40,
+        "description": "NIP-40: Expiration Timestamp",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 42,
+        "description": "NIP-42: Authentication of clients to relays",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 44,
+        "description": "NIP-44: Versioned Encryption",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 45,
+        "description": "NIP-45: Counting results",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 46,
+        "description": "NIP-46: Nostr Connect",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 47,
+        "description": "NIP-47: Wallet Connect",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 48,
+        "description": "NIP-48: Proxy Tags",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 49,
+        "description": "NIP-49: Private Key Encryption",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 50,
+        "description": "NIP-50: Search Capability",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 51,
+        "description": "NIP-51: Lists",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 52,
+        "description": "NIP-52: Calendar Events",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 53,
+        "description": "NIP-53: Live Activities",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 54,
+        "description": "NIP-54: Wiki",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 55,
+        "description": "NIP-55: Android Signer Application",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 56,
+        "description": "NIP-56: Reporting",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 57,
+        "description": "NIP-57: Lightning Zaps",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 58,
+        "description": "NIP-58: Badges",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 59,
+        "description": "NIP-59: Gift Wrap",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 64,
+        "description": "NIP-64: Chess (PGN)",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 65,
+        "description": "NIP-65: Relay List Metadata",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 70,
+        "description": "NIP-70: Protected Events",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 71,
+        "description": "NIP-71: Video Events",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 72,
+        "description": "NIP-72: Moderated Communities",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 73,
+        "description": "NIP-73: External Content IDs",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 75,
+        "description": "NIP-75: Zap Goals",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 78,
+        "description": "NIP-78: Application-specific data",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 84,
+        "description": "NIP-84: Highlights",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 89,
+        "description": "NIP-89: Recommended Application Handlers",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 90,
+        "description": "NIP-90: Data Vending Machines",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 92,
+        "description": "NIP-92: Media Attachments",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 94,
+        "description": "NIP-94: File Metadata",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 96,
+        "description": "NIP-96: HTTP File Storage Integration",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 98,
+        "description": "NIP-98: HTTP Auth",
+        "deprecation_notice": null
+    },
+    {
+        "nip": 99,
+        "description": "NIP-99: Classified Listings",
+        "deprecation_notice": null
+    }
+]

@@ -1,0 +1,535 @@
+[
+    {
+        "tag": "e",
+        "required_parameters": [
+            "event id (hex)"
+        ],
+        "other_parameters": [
+            "relay URL",
+            "marker",
+            "pubkey (hex)"
+        ],
+        "nips": [
+            1,
+            10
+        ]
+    },
+    {
+        "tag": "p",
+        "required_parameters": [
+            "pubkey (hex)"
+        ],
+        "other_parameters": [
+            "relay URL",
+            "petname"
+        ],
+        "nips": [
+            1,
+            2
+        ]
+    },
+    {
+        "tag": "a",
+        "required_parameters": [
+            "coordinates to an event"
+        ],
+        "other_parameters": [
+            "relay URL"
+        ],
+        "nips": [
+            1
+        ]
+    },
+    {
+        "tag": "d",
+        "required_parameters": [
+            "identifier"
+        ],
+        "other_parameters": [],
+        "nips": [
+            1
+        ]
+    },
+    {
+        "tag": "-",
+        "required_parameters": [],
+        "other_parameters": [],
+        "nips": [
+            70
+        ]
+    },
+    {
+        "tag": "g",
+        "required_parameters": [
+            "geohash"
+        ],
+        "other_parameters": [],
+        "nips": [
+            52
+        ]
+    },
+    {
+        "tag": "h",
+        "required_parameters": [
+            "group id"
+        ],
+        "other_parameters": [],
+        "nips": [
+            29
+        ]
+    },
+    {
+        "tag": "i",
+        "required_parameters": [
+            "external identity"
+        ],
+        "other_parameters": [
+            "proof",
+            "url hint"
+        ],
+        "nips": [
+            39,
+            73
+        ]
+    },
+    {
+        "tag": "k",
+        "required_parameters": [
+            "kind number (string)"
+        ],
+        "other_parameters": [],
+        "nips": [
+            18,
+            25,
+            72
+        ]
+    },
+    {
+        "tag": "l",
+        "required_parameters": [
+            "label",
+            "label namespace"
+        ],
+        "other_parameters": [],
+        "nips": [
+            32
+        ]
+    },
+    {
+        "tag": "L",
+        "required_parameters": [
+            "label namespace"
+        ],
+        "other_parameters": [],
+        "nips": [
+            32
+        ]
+    },
+    {
+        "tag": "m",
+        "required_parameters": [
+            "MIME type"
+        ],
+        "other_parameters": [],
+        "nips": [
+            94
+        ]
+    },
+    {
+        "tag": "q",
+        "required_parameters": [
+            "event id (hex)"
+        ],
+        "other_parameters": [
+            "relay URL"
+        ],
+        "nips": [
+            18
+        ]
+    },
+    {
+        "tag": "r",
+        "required_parameters": [
+            "a reference (URL etc)"
+        ],
+        "other_parameters": [],
+        "nips": [
+            24,
+            25
+        ]
+    },
+    {
+        "tag": "r",
+        "required_parameters": [
+            "relay url"
+        ],
+        "other_parameters": [
+            "marker"
+        ],
+        "nips": [
+            65
+        ]
+    },
+    {
+        "tag": "t",
+        "required_parameters": [
+            "hashtag"
+        ],
+        "other_parameters": [],
+        "nips": [
+            24,
+            34
+        ]
+    },
+    {
+        "tag": "alt",
+        "required_parameters": [
+            "summary"
+        ],
+        "other_parameters": [],
+        "nips": [
+            31
+        ]
+    },
+    {
+        "tag": "amount",
+        "required_parameters": [
+            "millisatoshis (stringified)"
+        ],
+        "other_parameters": [],
+        "nips": [
+            57
+        ]
+    },
+    {
+        "tag": "bolt11",
+        "required_parameters": [
+            "`bolt11` invoice"
+        ],
+        "other_parameters": [],
+        "nips": [
+            57
+        ]
+    },
+    {
+        "tag": "challenge",
+        "required_parameters": [
+            "challenge string"
+        ],
+        "other_parameters": [],
+        "nips": [
+            42
+        ]
+    },
+    {
+        "tag": "client",
+        "required_parameters": [
+            "name",
+            "address"
+        ],
+        "other_parameters": [
+            "relay URL"
+        ],
+        "nips": [
+            89
+        ]
+    },
+    {
+        "tag": "clone",
+        "required_parameters": [
+            "git clone URL"
+        ],
+        "other_parameters": [],
+        "nips": [
+            34
+        ]
+    },
+    {
+        "tag": "content-warning",
+        "required_parameters": [
+            "reason"
+        ],
+        "other_parameters": [],
+        "nips": [
+            36
+        ]
+    },
+    {
+        "tag": "delegation",
+        "required_parameters": [
+            "pubkey",
+            "conditions",
+            "delegation token"
+        ],
+        "other_parameters": [],
+        "nips": [
+            26
+        ]
+    },
+    {
+        "tag": "description",
+        "required_parameters": [
+            "description"
+        ],
+        "other_parameters": [],
+        "nips": [
+            34,
+            57,
+            58
+        ]
+    },
+    {
+        "tag": "emoji",
+        "required_parameters": [
+            "shortcode",
+            "image URL"
+        ],
+        "other_parameters": [],
+        "nips": [
+            30
+        ]
+    },
+    {
+        "tag": "encrypted",
+        "required_parameters": [],
+        "other_parameters": [],
+        "nips": [
+            90
+        ]
+    },
+    {
+        "tag": "expiration",
+        "required_parameters": [
+            "unix timestamp (string)"
+        ],
+        "other_parameters": [],
+        "nips": [
+            40
+        ]
+    },
+    {
+        "tag": "goal",
+        "required_parameters": [
+            "event id (hex)"
+        ],
+        "other_parameters": [
+            "relay URL"
+        ],
+        "nips": [
+            75
+        ]
+    },
+    {
+        "tag": "image",
+        "required_parameters": [
+            "image URL"
+        ],
+        "other_parameters": [
+            "dimensions in pixels"
+        ],
+        "nips": [
+            23,
+            52,
+            58
+        ]
+    },
+    {
+        "tag": "imeta",
+        "required_parameters": [
+            "inline metadata"
+        ],
+        "other_parameters": [],
+        "nips": [
+            92
+        ]
+    },
+    {
+        "tag": "lnurl",
+        "required_parameters": [
+            "`bech32` encoded `lnurl`"
+        ],
+        "other_parameters": [],
+        "nips": [
+            57
+        ]
+    },
+    {
+        "tag": "location",
+        "required_parameters": [
+            "location string"
+        ],
+        "other_parameters": [],
+        "nips": [
+            52,
+            99
+        ]
+    },
+    {
+        "tag": "name",
+        "required_parameters": [
+            "name"
+        ],
+        "other_parameters": [],
+        "nips": [
+            34,
+            58,
+            72
+        ]
+    },
+    {
+        "tag": "nonce",
+        "required_parameters": [
+            "random"
+        ],
+        "other_parameters": [
+            "difficulty"
+        ],
+        "nips": [
+            13
+        ]
+    },
+    {
+        "tag": "preimage",
+        "required_parameters": [
+            "hash of `bolt11` invoice"
+        ],
+        "other_parameters": [],
+        "nips": [
+            57
+        ]
+    },
+    {
+        "tag": "price",
+        "required_parameters": [
+            "price"
+        ],
+        "other_parameters": [
+            "currency",
+            "frequency"
+        ],
+        "nips": [
+            99
+        ]
+    },
+    {
+        "tag": "proxy",
+        "required_parameters": [
+            "external ID"
+        ],
+        "other_parameters": [
+            "protocol"
+        ],
+        "nips": [
+            48
+        ]
+    },
+    {
+        "tag": "published_at",
+        "required_parameters": [
+            "unix timestamp (string)"
+        ],
+        "other_parameters": [],
+        "nips": [
+            23
+        ]
+    },
+    {
+        "tag": "relay",
+        "required_parameters": [
+            "relay url"
+        ],
+        "other_parameters": [],
+        "nips": [
+            42,
+            17
+        ]
+    },
+    {
+        "tag": "relays",
+        "required_parameters": [
+            "relay list"
+        ],
+        "other_parameters": [],
+        "nips": [
+            57
+        ]
+    },
+    {
+        "tag": "server",
+        "required_parameters": [
+            "file storage server url"
+        ],
+        "other_parameters": [],
+        "nips": [
+            96
+        ]
+    },
+    {
+        "tag": "subject",
+        "required_parameters": [
+            "subject"
+        ],
+        "other_parameters": [],
+        "nips": [
+            14,
+            17,
+            34
+        ]
+    },
+    {
+        "tag": "summary",
+        "required_parameters": [
+            "summary"
+        ],
+        "other_parameters": [],
+        "nips": [
+            23,
+            52
+        ]
+    },
+    {
+        "tag": "thumb",
+        "required_parameters": [
+            "badge thumbnail"
+        ],
+        "other_parameters": [
+            "dimensions in pixels"
+        ],
+        "nips": [
+            58
+        ]
+    },
+    {
+        "tag": "title",
+        "required_parameters": [
+            "article title"
+        ],
+        "other_parameters": [],
+        "nips": [
+            23
+        ]
+    },
+    {
+        "tag": "web",
+        "required_parameters": [
+            "webpage URL"
+        ],
+        "other_parameters": [],
+        "nips": [
+            34
+        ]
+    },
+    {
+        "tag": "zap",
+        "required_parameters": [
+            "pubkey (hex)",
+            "relay URL"
+        ],
+        "other_parameters": [
+            "weight"
+        ],
+        "nips": [
+            57
+        ]
+    }
+]
