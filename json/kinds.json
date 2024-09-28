@@ -6,7 +6,7 @@
         ],
         "description": "User Metadata",
         "nips": [
-            1
+            "NIP-01"
         ]
     },
     {
@@ -16,7 +16,7 @@
         ],
         "description": "Short Text Note",
         "nips": [
-            1
+            "NIP-01"
         ]
     },
     {
@@ -34,7 +34,7 @@
         ],
         "description": "Follows",
         "nips": [
-            2
+            "NIP-02"
         ]
     },
     {
@@ -44,7 +44,7 @@
         ],
         "description": "Encrypted Direct Messages",
         "nips": [
-            4
+            "NIP-04"
         ]
     },
     {
@@ -54,7 +54,7 @@
         ],
         "description": "Event Deletion Request",
         "nips": [
-            9
+            "NIP-09"
         ]
     },
     {
@@ -64,7 +64,7 @@
         ],
         "description": "Repost",
         "nips": [
-            18
+            "NIP-18"
         ]
     },
     {
@@ -74,7 +74,7 @@
         ],
         "description": "Reaction",
         "nips": [
-            25
+            "NIP-25"
         ]
     },
     {
@@ -84,7 +84,7 @@
         ],
         "description": "Badge Award",
         "nips": [
-            58
+            "NIP-58"
         ]
     },
     {
@@ -94,7 +94,7 @@
         ],
         "description": "Group Chat Message",
         "nips": [
-            29
+            "NIP-29"
         ]
     },
     {
@@ -104,7 +104,7 @@
         ],
         "description": "Group Chat Threaded Reply",
         "nips": [
-            29
+            "NIP-29"
         ]
     },
     {
@@ -114,7 +114,7 @@
         ],
         "description": "Group Thread",
         "nips": [
-            29
+            "NIP-29"
         ]
     },
     {
@@ -124,7 +124,7 @@
         ],
         "description": "Group Thread Reply",
         "nips": [
-            29
+            "NIP-29"
         ]
     },
     {
@@ -134,7 +134,7 @@
         ],
         "description": "Seal",
         "nips": [
-            59
+            "NIP-59"
         ]
     },
     {
@@ -144,7 +144,7 @@
         ],
         "description": "Direct Message",
         "nips": [
-            17
+            "NIP-17"
         ]
     },
     {
@@ -154,7 +154,7 @@
         ],
         "description": "Generic Repost",
         "nips": [
-            18
+            "NIP-18"
         ]
     },
     {
@@ -164,7 +164,7 @@
         ],
         "description": "Reaction to a website",
         "nips": [
-            25
+            "NIP-25"
         ]
     },
     {
@@ -174,7 +174,7 @@
         ],
         "description": "Channel Creation",
         "nips": [
-            28
+            "NIP-28"
         ]
     },
     {
@@ -184,7 +184,7 @@
         ],
         "description": "Channel Metadata",
         "nips": [
-            28
+            "NIP-28"
         ]
     },
     {
@@ -194,7 +194,7 @@
         ],
         "description": "Channel Message",
         "nips": [
-            28
+            "NIP-28"
         ]
     },
     {
@@ -204,7 +204,7 @@
         ],
         "description": "Channel Hide Message",
         "nips": [
-            28
+            "NIP-28"
         ]
     },
     {
@@ -214,7 +214,7 @@
         ],
         "description": "Channel Mute User",
         "nips": [
-            28
+            "NIP-28"
         ]
     },
     {
@@ -224,7 +224,7 @@
         ],
         "description": "Chess (PGN)",
         "nips": [
-            64
+            "NIP-64"
         ]
     },
     {
@@ -234,7 +234,7 @@
         ],
         "description": "Merge Requests",
         "nips": [
-            54
+            "NIP-54"
         ]
     },
     {
@@ -244,7 +244,7 @@
         ],
         "description": "Bid",
         "nips": [
-            15
+            "NIP-15"
         ]
     },
     {
@@ -254,7 +254,7 @@
         ],
         "description": "Bid confirmation",
         "nips": [
-            15
+            "NIP-15"
         ]
     },
     {
@@ -264,7 +264,7 @@
         ],
         "description": "OpenTimestamps",
         "nips": [
-            3
+            "NIP-03"
         ]
     },
     {
@@ -274,7 +274,7 @@
         ],
         "description": "Gift Wrap",
         "nips": [
-            59
+            "NIP-59"
         ]
     },
     {
@@ -284,7 +284,7 @@
         ],
         "description": "File Metadata",
         "nips": [
-            94
+            "NIP-94"
         ]
     },
     {
@@ -294,7 +294,7 @@
         ],
         "description": "Live Chat Message",
         "nips": [
-            53
+            "NIP-53"
         ]
     },
     {
@@ -304,7 +304,7 @@
         ],
         "description": "Patches",
         "nips": [
-            34
+            "NIP-34"
         ]
     },
     {
@@ -314,7 +314,7 @@
         ],
         "description": "Issues",
         "nips": [
-            34
+            "NIP-34"
         ]
     },
     {
@@ -324,7 +324,7 @@
         ],
         "description": "Replies",
         "nips": [
-            34
+            "NIP-34"
         ]
     },
     {
@@ -334,7 +334,7 @@
         ],
         "description": "Status",
         "nips": [
-            34
+            "NIP-34"
         ]
     },
     {
@@ -354,7 +354,7 @@
         ],
         "description": "Reporting",
         "nips": [
-            56
+            "NIP-56"
         ]
     },
     {
@@ -364,7 +364,7 @@
         ],
         "description": "Label",
         "nips": [
-            32
+            "NIP-32"
         ]
     },
     {
@@ -392,7 +392,7 @@
         ],
         "description": "Torrent",
         "nips": [
-            35
+            "NIP-35"
         ]
     },
     {
@@ -402,7 +402,7 @@
         ],
         "description": "Torrent Comment",
         "nips": [
-            35
+            "NIP-35"
         ]
     },
     {
@@ -422,7 +422,7 @@
         ],
         "description": "Community Post Approval",
         "nips": [
-            72
+            "NIP-72"
         ]
     },
     {
@@ -432,7 +432,7 @@
         ],
         "description": "Job Request",
         "nips": [
-            90
+            "NIP-90"
         ]
     },
     {
@@ -442,7 +442,7 @@
         ],
         "description": "Job Result",
         "nips": [
-            90
+            "NIP-90"
         ]
     },
     {
@@ -452,7 +452,7 @@
         ],
         "description": "Job Feedback",
         "nips": [
-            90
+            "NIP-90"
         ]
     },
     {
@@ -462,7 +462,7 @@
         ],
         "description": "Group Control Events",
         "nips": [
-            29
+            "NIP-29"
         ]
     },
     {
@@ -472,7 +472,7 @@
         ],
         "description": "Zap Goal",
         "nips": [
-            75
+            "NIP-75"
         ]
     },
     {
@@ -492,7 +492,7 @@
         ],
         "description": "Zap Request",
         "nips": [
-            57
+            "NIP-57"
         ]
     },
     {
@@ -502,7 +502,7 @@
         ],
         "description": "Zap",
         "nips": [
-            57
+            "NIP-57"
         ]
     },
     {
@@ -512,7 +512,7 @@
         ],
         "description": "Highlights",
         "nips": [
-            84
+            "NIP-84"
         ]
     },
     {
@@ -522,7 +522,7 @@
         ],
         "description": "Mute list",
         "nips": [
-            51
+            "NIP-51"
         ]
     },
     {
@@ -532,7 +532,7 @@
         ],
         "description": "Pin list",
         "nips": [
-            51
+            "NIP-51"
         ]
     },
     {
@@ -542,7 +542,7 @@
         ],
         "description": "Relay List Metadata",
         "nips": [
-            65
+            "NIP-65"
         ]
     },
     {
@@ -552,7 +552,7 @@
         ],
         "description": "Bookmark list",
         "nips": [
-            51
+            "NIP-51"
         ]
     },
     {
@@ -562,7 +562,7 @@
         ],
         "description": "Communities list",
         "nips": [
-            51
+            "NIP-51"
         ]
     },
     {
@@ -572,7 +572,7 @@
         ],
         "description": "Public chats list",
         "nips": [
-            51
+            "NIP-51"
         ]
     },
     {
@@ -582,7 +582,7 @@
         ],
         "description": "Blocked relays list",
         "nips": [
-            51
+            "NIP-51"
         ]
     },
     {
@@ -592,7 +592,7 @@
         ],
         "description": "Search relays list",
         "nips": [
-            51
+            "NIP-51"
         ]
     },
     {
@@ -602,8 +602,8 @@
         ],
         "description": "User groups",
         "nips": [
-            51,
-            29
+            "NIP-51",
+            "NIP-29"
         ]
     },
     {
@@ -613,7 +613,7 @@
         ],
         "description": "Interests list",
         "nips": [
-            51
+            "NIP-51"
         ]
     },
     {
@@ -623,7 +623,7 @@
         ],
         "description": "User emoji list",
         "nips": [
-            51
+            "NIP-51"
         ]
     },
     {
@@ -633,8 +633,8 @@
         ],
         "description": "Relay list to receive DMs",
         "nips": [
-            51,
-            17
+            "NIP-51",
+            "NIP-17"
         ]
     },
     {
@@ -654,7 +654,7 @@
         ],
         "description": "File storage server list",
         "nips": [
-            96
+            "NIP-96"
         ]
     },
     {
@@ -664,7 +664,7 @@
         ],
         "description": "Wallet Info",
         "nips": [
-            47
+            "NIP-47"
         ]
     },
     {
@@ -684,7 +684,7 @@
         ],
         "description": "Client Authentication",
         "nips": [
-            42
+            "NIP-42"
         ]
     },
     {
@@ -694,7 +694,7 @@
         ],
         "description": "Wallet Request",
         "nips": [
-            47
+            "NIP-47"
         ]
     },
     {
@@ -704,7 +704,7 @@
         ],
         "description": "Wallet Response",
         "nips": [
-            47
+            "NIP-47"
         ]
     },
     {
@@ -714,7 +714,7 @@
         ],
         "description": "Nostr Connect",
         "nips": [
-            46
+            "NIP-46"
         ]
     },
     {
@@ -734,7 +734,7 @@
         ],
         "description": "HTTP Auth",
         "nips": [
-            98
+            "NIP-98"
         ]
     },
     {
@@ -744,7 +744,7 @@
         ],
         "description": "Follow sets",
         "nips": [
-            51
+            "NIP-51"
         ]
     },
     {
@@ -754,7 +754,7 @@
         ],
         "description": "Generic lists",
         "nips": [
-            51
+            "NIP-51"
         ]
     },
     {
@@ -764,7 +764,7 @@
         ],
         "description": "Relay sets",
         "nips": [
-            51
+            "NIP-51"
         ]
     },
     {
@@ -774,7 +774,7 @@
         ],
         "description": "Bookmark sets",
         "nips": [
-            51
+            "NIP-51"
         ]
     },
     {
@@ -784,7 +784,7 @@
         ],
         "description": "Curation sets",
         "nips": [
-            51
+            "NIP-51"
         ]
     },
     {
@@ -794,7 +794,7 @@
         ],
         "description": "Video sets",
         "nips": [
-            51
+            "NIP-51"
         ]
     },
     {
@@ -804,7 +804,7 @@
         ],
         "description": "Kind mute sets",
         "nips": [
-            51
+            "NIP-51"
         ]
     },
     {
@@ -814,7 +814,7 @@
         ],
         "description": "Profile Badges",
         "nips": [
-            58
+            "NIP-58"
         ]
     },
     {
@@ -824,7 +824,7 @@
         ],
         "description": "Badge Definition",
         "nips": [
-            58
+            "NIP-58"
         ]
     },
     {
@@ -834,7 +834,7 @@
         ],
         "description": "Interest sets",
         "nips": [
-            51
+            "NIP-51"
         ]
     },
     {
@@ -844,7 +844,7 @@
         ],
         "description": "Create or update a stall",
         "nips": [
-            15
+            "NIP-15"
         ]
     },
     {
@@ -854,7 +854,7 @@
         ],
         "description": "Create or update a product",
         "nips": [
-            15
+            "NIP-15"
         ]
     },
     {
@@ -864,7 +864,7 @@
         ],
         "description": "Marketplace UI/UX",
         "nips": [
-            15
+            "NIP-15"
         ]
     },
     {
@@ -874,7 +874,7 @@
         ],
         "description": "Product sold as an auction",
         "nips": [
-            15
+            "NIP-15"
         ]
     },
     {
@@ -884,7 +884,7 @@
         ],
         "description": "Long-form Content",
         "nips": [
-            23
+            "NIP-23"
         ]
     },
     {
@@ -894,7 +894,7 @@
         ],
         "description": "Draft Long-form Content",
         "nips": [
-            23
+            "NIP-23"
         ]
     },
     {
@@ -904,7 +904,7 @@
         ],
         "description": "Emoji sets",
         "nips": [
-            51
+            "NIP-51"
         ]
     },
     {
@@ -934,7 +934,7 @@
         ],
         "description": "Release artifact sets",
         "nips": [
-            51
+            "NIP-51"
         ]
     },
     {
@@ -944,7 +944,7 @@
         ],
         "description": "Application-specific Data",
         "nips": [
-            78
+            "NIP-78"
         ]
     },
     {
@@ -954,7 +954,7 @@
         ],
         "description": "Live Event",
         "nips": [
-            53
+            "NIP-53"
         ]
     },
     {
@@ -964,7 +964,7 @@
         ],
         "description": "User Statuses",
         "nips": [
-            38
+            "NIP-38"
         ]
     },
     {
@@ -974,7 +974,7 @@
         ],
         "description": "Classified Listing",
         "nips": [
-            99
+            "NIP-99"
         ]
     },
     {
@@ -984,7 +984,7 @@
         ],
         "description": "Draft Classified Listing",
         "nips": [
-            99
+            "NIP-99"
         ]
     },
     {
@@ -994,7 +994,7 @@
         ],
         "description": "Repository announcements",
         "nips": [
-            34
+            "NIP-34"
         ]
     },
     {
@@ -1004,7 +1004,7 @@
         ],
         "description": "Repository state announcements",
         "nips": [
-            34
+            "NIP-34"
         ]
     },
     {
@@ -1014,7 +1014,7 @@
         ],
         "description": "Wiki article",
         "nips": [
-            54
+            "NIP-54"
         ]
     },
     {
@@ -1024,7 +1024,7 @@
         ],
         "description": "Redirects",
         "nips": [
-            54
+            "NIP-54"
         ]
     },
     {
@@ -1044,7 +1044,7 @@
         ],
         "description": "Date-Based Calendar Event",
         "nips": [
-            52
+            "NIP-52"
         ]
     },
     {
@@ -1054,7 +1054,7 @@
         ],
         "description": "Time-Based Calendar Event",
         "nips": [
-            52
+            "NIP-52"
         ]
     },
     {
@@ -1064,7 +1064,7 @@
         ],
         "description": "Calendar",
         "nips": [
-            52
+            "NIP-52"
         ]
     },
     {
@@ -1074,7 +1074,7 @@
         ],
         "description": "Calendar Event RSVP",
         "nips": [
-            52
+            "NIP-52"
         ]
     },
     {
@@ -1084,7 +1084,7 @@
         ],
         "description": "Handler recommendation",
         "nips": [
-            89
+            "NIP-89"
         ]
     },
     {
@@ -1094,7 +1094,7 @@
         ],
         "description": "Handler information",
         "nips": [
-            89
+            "NIP-89"
         ]
     },
     {
@@ -1104,7 +1104,7 @@
         ],
         "description": "Video Event",
         "nips": [
-            71
+            "NIP-71"
         ]
     },
     {
@@ -1114,7 +1114,7 @@
         ],
         "description": "Short-form Portrait Video Event",
         "nips": [
-            71
+            "NIP-71"
         ]
     },
     {
@@ -1124,7 +1124,7 @@
         ],
         "description": "Video View Event",
         "nips": [
-            71
+            "NIP-71"
         ]
     },
     {
@@ -1134,7 +1134,7 @@
         ],
         "description": "Community Definition",
         "nips": [
-            72
+            "NIP-72"
         ]
     },
     {
@@ -1144,7 +1144,7 @@
         ],
         "description": "Group metadata events",
         "nips": [
-            29
+            "NIP-29"
         ]
     }
 ]

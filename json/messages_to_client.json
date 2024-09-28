@@ -3,49 +3,49 @@
         "type": "EOSE",
         "description": "used to notify clients all stored events have been sent",
         "nips": [
-            1
+            "NIP-01"
         ]
     },
     {
         "type": "EVENT",
         "description": "used to send events requested to clients",
         "nips": [
-            1
+            "NIP-01"
         ]
     },
     {
         "type": "NOTICE",
         "description": "used to send human-readable messages to clients",
         "nips": [
-            1
+            "NIP-01"
         ]
     },
     {
         "type": "OK",
         "description": "used to notify clients if an EVENT was successful",
         "nips": [
-            1
+            "NIP-01"
         ]
     },
     {
         "type": "CLOSED",
         "description": "used to notify clients that a REQ was ended and why",
         "nips": [
-            1
+            "NIP-01"
         ]
     },
     {
         "type": "AUTH",
         "description": "used to send authentication challenges",
         "nips": [
-            42
+            "NIP-42"
         ]
     },
     {
         "type": "COUNT",
         "description": "used to send requested event counts to clients",
         "nips": [
-            45
+            "NIP-45"
         ]
     }
 ]

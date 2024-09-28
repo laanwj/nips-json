@@ -3,35 +3,35 @@
         "type": "EVENT",
         "description": "used to publish events",
         "nips": [
-            1
+            "NIP-01"
         ]
     },
     {
         "type": "REQ",
         "description": "used to request events and subscribe to new updates",
         "nips": [
-            1
+            "NIP-01"
         ]
     },
     {
         "type": "CLOSE",
         "description": "used to stop previous subscriptions",
         "nips": [
-            1
+            "NIP-01"
         ]
     },
     {
         "type": "AUTH",
         "description": "used to send authentication events",
         "nips": [
-            42
+            "NIP-42"
         ]
     },
     {
         "type": "COUNT",
         "description": "used to request event counts",
         "nips": [
-            45
+            "NIP-45"
         ]
     }
 ]

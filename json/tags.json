@@ -10,8 +10,8 @@
             "pubkey (hex)"
         ],
         "nips": [
-            1,
-            10
+            "NIP-01",
+            "NIP-10"
         ]
     },
     {
@@ -24,8 +24,8 @@
             "petname"
         ],
         "nips": [
-            1,
-            2
+            "NIP-01",
+            "NIP-02"
         ]
     },
     {
@@ -37,7 +37,7 @@
             "relay URL"
         ],
         "nips": [
-            1
+            "NIP-01"
         ]
     },
     {
@@ -47,7 +47,7 @@
         ],
         "other_parameters": [],
         "nips": [
-            1
+            "NIP-01"
         ]
     },
     {
@@ -55,7 +55,7 @@
         "required_parameters": [],
         "other_parameters": [],
         "nips": [
-            70
+            "NIP-70"
         ]
     },
     {
@@ -65,7 +65,7 @@
         ],
         "other_parameters": [],
         "nips": [
-            52
+            "NIP-52"
         ]
     },
     {
@@ -75,7 +75,7 @@
         ],
         "other_parameters": [],
         "nips": [
-            29
+            "NIP-29"
         ]
     },
     {
@@ -88,8 +88,8 @@
             "url hint"
         ],
         "nips": [
-            39,
-            73
+            "NIP-39",
+            "NIP-73"
         ]
     },
     {
@@ -99,9 +99,9 @@
         ],
         "other_parameters": [],
         "nips": [
-            18,
-            25,
-            72
+            "NIP-18",
+            "NIP-25",
+            "NIP-72"
         ]
     },
     {
@@ -112,7 +112,7 @@
         ],
         "other_parameters": [],
         "nips": [
-            32
+            "NIP-32"
         ]
     },
     {
@@ -122,7 +122,7 @@
         ],
         "other_parameters": [],
         "nips": [
-            32
+            "NIP-32"
         ]
     },
     {
@@ -132,7 +132,7 @@
         ],
         "other_parameters": [],
         "nips": [
-            94
+            "NIP-94"
         ]
     },
     {
@@ -144,7 +144,7 @@
             "relay URL"
         ],
         "nips": [
-            18
+            "NIP-18"
         ]
     },
     {
@@ -154,8 +154,8 @@
         ],
         "other_parameters": [],
         "nips": [
-            24,
-            25
+            "NIP-24",
+            "NIP-25"
         ]
     },
     {
@@ -167,7 +167,7 @@
             "marker"
         ],
         "nips": [
-            65
+            "NIP-65"
         ]
     },
     {
@@ -177,8 +177,8 @@
         ],
         "other_parameters": [],
         "nips": [
-            24,
-            34
+            "NIP-24",
+            "NIP-34"
         ]
     },
     {
@@ -188,7 +188,7 @@
         ],
         "other_parameters": [],
         "nips": [
-            31
+            "NIP-31"
         ]
     },
     {
@@ -198,7 +198,7 @@
         ],
         "other_parameters": [],
         "nips": [
-            57
+            "NIP-57"
         ]
     },
     {
@@ -208,7 +208,7 @@
         ],
         "other_parameters": [],
         "nips": [
-            57
+            "NIP-57"
         ]
     },
     {
@@ -218,7 +218,7 @@
         ],
         "other_parameters": [],
         "nips": [
-            42
+            "NIP-42"
         ]
     },
     {
@@ -231,7 +231,7 @@
             "relay URL"
         ],
         "nips": [
-            89
+            "NIP-89"
         ]
     },
     {
@@ -241,7 +241,7 @@
         ],
         "other_parameters": [],
         "nips": [
-            34
+            "NIP-34"
         ]
     },
     {
@@ -251,7 +251,7 @@
         ],
         "other_parameters": [],
         "nips": [
-            36
+            "NIP-36"
         ]
     },
     {
@@ -263,7 +263,7 @@
         ],
         "other_parameters": [],
         "nips": [
-            26
+            "NIP-26"
         ]
     },
     {
@@ -273,9 +273,9 @@
         ],
         "other_parameters": [],
         "nips": [
-            34,
-            57,
-            58
+            "NIP-34",
+            "NIP-57",
+            "NIP-58"
         ]
     },
     {
@@ -286,7 +286,7 @@
         ],
         "other_parameters": [],
         "nips": [
-            30
+            "NIP-30"
         ]
     },
     {
@@ -294,7 +294,7 @@
         "required_parameters": [],
         "other_parameters": [],
         "nips": [
-            90
+            "NIP-90"
         ]
     },
     {
@@ -304,7 +304,7 @@
         ],
         "other_parameters": [],
         "nips": [
-            40
+            "NIP-40"
         ]
     },
     {
@@ -316,7 +316,7 @@
             "relay URL"
         ],
         "nips": [
-            75
+            "NIP-75"
         ]
     },
     {
@@ -328,9 +328,9 @@
             "dimensions in pixels"
         ],
         "nips": [
-            23,
-            52,
-            58
+            "NIP-23",
+            "NIP-52",
+            "NIP-58"
         ]
     },
     {
@@ -340,7 +340,7 @@
         ],
         "other_parameters": [],
         "nips": [
-            92
+            "NIP-92"
         ]
     },
     {
@@ -350,7 +350,7 @@
         ],
         "other_parameters": [],
         "nips": [
-            57
+            "NIP-57"
         ]
     },
     {
@@ -360,8 +360,8 @@
         ],
         "other_parameters": [],
         "nips": [
-            52,
-            99
+            "NIP-52",
+            "NIP-99"
         ]
     },
     {
@@ -371,9 +371,9 @@
         ],
         "other_parameters": [],
         "nips": [
-            34,
-            58,
-            72
+            "NIP-34",
+            "NIP-58",
+            "NIP-72"
         ]
     },
     {
@@ -385,7 +385,7 @@
             "difficulty"
         ],
         "nips": [
-            13
+            "NIP-13"
         ]
     },
     {
@@ -395,7 +395,7 @@
         ],
         "other_parameters": [],
         "nips": [
-            57
+            "NIP-57"
         ]
     },
     {
@@ -408,7 +408,7 @@
             "frequency"
         ],
         "nips": [
-            99
+            "NIP-99"
         ]
     },
     {
@@ -420,7 +420,7 @@
             "protocol"
         ],
         "nips": [
-            48
+            "NIP-48"
         ]
     },
     {
@@ -430,7 +430,7 @@
         ],
         "other_parameters": [],
         "nips": [
-            23
+            "NIP-23"
         ]
     },
     {
@@ -440,8 +440,8 @@
         ],
         "other_parameters": [],
         "nips": [
-            42,
-            17
+            "NIP-42",
+            "NIP-17"
         ]
     },
     {
@@ -451,7 +451,7 @@
         ],
         "other_parameters": [],
         "nips": [
-            57
+            "NIP-57"
         ]
     },
     {
@@ -461,7 +461,7 @@
         ],
         "other_parameters": [],
         "nips": [
-            96
+            "NIP-96"
         ]
     },
     {
@@ -471,9 +471,9 @@
         ],
         "other_parameters": [],
         "nips": [
-            14,
-            17,
-            34
+            "NIP-14",
+            "NIP-17",
+            "NIP-34"
         ]
     },
     {
@@ -483,8 +483,8 @@
         ],
         "other_parameters": [],
         "nips": [
-            23,
-            52
+            "NIP-23",
+            "NIP-52"
         ]
     },
     {
@@ -496,7 +496,7 @@
             "dimensions in pixels"
         ],
         "nips": [
-            58
+            "NIP-58"
         ]
     },
     {
@@ -506,7 +506,7 @@
         ],
         "other_parameters": [],
         "nips": [
-            23
+            "NIP-23"
         ]
     },
     {
@@ -516,7 +516,7 @@
         ],
         "other_parameters": [],
         "nips": [
-            34
+            "NIP-34"
         ]
     },
     {
@@ -529,7 +529,7 @@
             "weight"
         ],
         "nips": [
-            57
+            "NIP-57"
         ]
     }
 ]

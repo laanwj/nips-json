@@ -1,337 +1,471 @@
 [
     {
-        "nip": 1,
-        "description": "NIP-01: Basic protocol flow description",
+        "num": 1,
+        "shortname": "NIP-01",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/01.md",
+        "description": "Basic protocol flow description",
         "deprecation_notice": null
     },
     {
-        "nip": 2,
-        "description": "NIP-02: Follow List",
+        "num": 2,
+        "shortname": "NIP-02",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/02.md",
+        "description": "Follow List",
         "deprecation_notice": null
     },
     {
-        "nip": 3,
-        "description": "NIP-03: OpenTimestamps Attestations for Events",
+        "num": 3,
+        "shortname": "NIP-03",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/03.md",
+        "description": "OpenTimestamps Attestations for Events",
         "deprecation_notice": null
     },
     {
-        "nip": 4,
-        "description": "NIP-04: Encrypted Direct Message",
+        "num": 4,
+        "shortname": "NIP-04",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/04.md",
+        "description": "Encrypted Direct Message",
         "deprecation_notice": "**unrecommended**: deprecated in favor of [NIP-17](17.md)"
     },
     {
-        "nip": 5,
-        "description": "NIP-05: Mapping Nostr keys to DNS-based internet identifiers",
+        "num": 5,
+        "shortname": "NIP-05",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/05.md",
+        "description": "Mapping Nostr keys to DNS-based internet identifiers",
         "deprecation_notice": null
     },
     {
-        "nip": 6,
-        "description": "NIP-06: Basic key derivation from mnemonic seed phrase",
+        "num": 6,
+        "shortname": "NIP-06",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/06.md",
+        "description": "Basic key derivation from mnemonic seed phrase",
         "deprecation_notice": null
     },
     {
-        "nip": 7,
-        "description": "NIP-07: `window.nostr` capability for web browsers",
+        "num": 7,
+        "shortname": "NIP-07",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/07.md",
+        "description": "`window.nostr` capability for web browsers",
         "deprecation_notice": null
     },
     {
-        "nip": 8,
-        "description": "NIP-08: Handling Mentions",
+        "num": 8,
+        "shortname": "NIP-08",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/08.md",
+        "description": "Handling Mentions",
         "deprecation_notice": "**unrecommended**: deprecated in favor of [NIP-27](27.md)"
     },
     {
-        "nip": 9,
-        "description": "NIP-09: Event Deletion Request",
+        "num": 9,
+        "shortname": "NIP-09",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/09.md",
+        "description": "Event Deletion Request",
         "deprecation_notice": null
     },
     {
-        "nip": 10,
-        "description": "NIP-10: Conventions for clients' use of `e` and `p` tags in text events",
+        "num": 10,
+        "shortname": "NIP-10",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/10.md",
+        "description": "Conventions for clients' use of `e` and `p` tags in text events",
         "deprecation_notice": null
     },
     {
-        "nip": 11,
-        "description": "NIP-11: Relay Information Document",
+        "num": 11,
+        "shortname": "NIP-11",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/11.md",
+        "description": "Relay Information Document",
         "deprecation_notice": null
     },
     {
-        "nip": 13,
-        "description": "NIP-13: Proof of Work",
+        "num": 13,
+        "shortname": "NIP-13",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/13.md",
+        "description": "Proof of Work",
         "deprecation_notice": null
     },
     {
-        "nip": 14,
-        "description": "NIP-14: Subject tag in text events",
+        "num": 14,
+        "shortname": "NIP-14",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/14.md",
+        "description": "Subject tag in text events",
         "deprecation_notice": null
     },
     {
-        "nip": 15,
-        "description": "NIP-15: Nostr Marketplace (for resilient marketplaces)",
+        "num": 15,
+        "shortname": "NIP-15",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/15.md",
+        "description": "Nostr Marketplace (for resilient marketplaces)",
         "deprecation_notice": null
     },
     {
-        "nip": 17,
-        "description": "NIP-17: Private Direct Messages",
+        "num": 17,
+        "shortname": "NIP-17",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/17.md",
+        "description": "Private Direct Messages",
         "deprecation_notice": null
     },
     {
-        "nip": 18,
-        "description": "NIP-18: Reposts",
+        "num": 18,
+        "shortname": "NIP-18",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/18.md",
+        "description": "Reposts",
         "deprecation_notice": null
     },
     {
-        "nip": 19,
-        "description": "NIP-19: bech32-encoded entities",
+        "num": 19,
+        "shortname": "NIP-19",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/19.md",
+        "description": "bech32-encoded entities",
         "deprecation_notice": null
     },
     {
-        "nip": 21,
-        "description": "NIP-21: `nostr:` URI scheme",
+        "num": 21,
+        "shortname": "NIP-21",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/21.md",
+        "description": "`nostr:` URI scheme",
         "deprecation_notice": null
     },
     {
-        "nip": 23,
-        "description": "NIP-23: Long-form Content",
+        "num": 23,
+        "shortname": "NIP-23",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/23.md",
+        "description": "Long-form Content",
         "deprecation_notice": null
     },
     {
-        "nip": 24,
-        "description": "NIP-24: Extra metadata fields and tags",
+        "num": 24,
+        "shortname": "NIP-24",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/24.md",
+        "description": "Extra metadata fields and tags",
         "deprecation_notice": null
     },
     {
-        "nip": 25,
-        "description": "NIP-25: Reactions",
+        "num": 25,
+        "shortname": "NIP-25",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/25.md",
+        "description": "Reactions",
         "deprecation_notice": null
     },
     {
-        "nip": 26,
-        "description": "NIP-26: Delegated Event Signing",
+        "num": 26,
+        "shortname": "NIP-26",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/26.md",
+        "description": "Delegated Event Signing",
         "deprecation_notice": null
     },
     {
-        "nip": 27,
-        "description": "NIP-27: Text Note References",
+        "num": 27,
+        "shortname": "NIP-27",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/27.md",
+        "description": "Text Note References",
         "deprecation_notice": null
     },
     {
-        "nip": 28,
-        "description": "NIP-28: Public Chat",
+        "num": 28,
+        "shortname": "NIP-28",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/28.md",
+        "description": "Public Chat",
         "deprecation_notice": null
     },
     {
-        "nip": 29,
-        "description": "NIP-29: Relay-based Groups",
+        "num": 29,
+        "shortname": "NIP-29",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/29.md",
+        "description": "Relay-based Groups",
         "deprecation_notice": null
     },
     {
-        "nip": 30,
-        "description": "NIP-30: Custom Emoji",
+        "num": 30,
+        "shortname": "NIP-30",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/30.md",
+        "description": "Custom Emoji",
         "deprecation_notice": null
     },
     {
-        "nip": 31,
-        "description": "NIP-31: Dealing with Unknown Events",
+        "num": 31,
+        "shortname": "NIP-31",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/31.md",
+        "description": "Dealing with Unknown Events",
         "deprecation_notice": null
     },
     {
-        "nip": 32,
-        "description": "NIP-32: Labeling",
+        "num": 32,
+        "shortname": "NIP-32",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/32.md",
+        "description": "Labeling",
         "deprecation_notice": null
     },
     {
-        "nip": 34,
-        "description": "NIP-34: `git` stuff",
+        "num": 34,
+        "shortname": "NIP-34",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/34.md",
+        "description": "`git` stuff",
         "deprecation_notice": null
     },
     {
-        "nip": 35,
-        "description": "NIP-35: Torrents",
+        "num": 35,
+        "shortname": "NIP-35",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/35.md",
+        "description": "Torrents",
         "deprecation_notice": null
     },
     {
-        "nip": 36,
-        "description": "NIP-36: Sensitive Content",
+        "num": 36,
+        "shortname": "NIP-36",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/36.md",
+        "description": "Sensitive Content",
         "deprecation_notice": null
     },
     {
-        "nip": 38,
-        "description": "NIP-38: User Statuses",
+        "num": 38,
+        "shortname": "NIP-38",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/38.md",
+        "description": "User Statuses",
         "deprecation_notice": null
     },
     {
-        "nip": 39,
-        "description": "NIP-39: External Identities in Profiles",
+        "num": 39,
+        "shortname": "NIP-39",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/39.md",
+        "description": "External Identities in Profiles",
         "deprecation_notice": null
     },
     {
-        "nip": 40,
-        "description": "NIP-40: Expiration Timestamp",
+        "num": 40,
+        "shortname": "NIP-40",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/40.md",
+        "description": "Expiration Timestamp",
         "deprecation_notice": null
     },
     {
-        "nip": 42,
-        "description": "NIP-42: Authentication of clients to relays",
+        "num": 42,
+        "shortname": "NIP-42",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/42.md",
+        "description": "Authentication of clients to relays",
         "deprecation_notice": null
     },
     {
-        "nip": 44,
-        "description": "NIP-44: Versioned Encryption",
+        "num": 44,
+        "shortname": "NIP-44",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/44.md",
+        "description": "Versioned Encryption",
         "deprecation_notice": null
     },
     {
-        "nip": 45,
-        "description": "NIP-45: Counting results",
+        "num": 45,
+        "shortname": "NIP-45",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/45.md",
+        "description": "Counting results",
         "deprecation_notice": null
     },
     {
-        "nip": 46,
-        "description": "NIP-46: Nostr Connect",
+        "num": 46,
+        "shortname": "NIP-46",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/46.md",
+        "description": "Nostr Connect",
         "deprecation_notice": null
     },
     {
-        "nip": 47,
-        "description": "NIP-47: Wallet Connect",
+        "num": 47,
+        "shortname": "NIP-47",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/47.md",
+        "description": "Wallet Connect",
         "deprecation_notice": null
     },
     {
-        "nip": 48,
-        "description": "NIP-48: Proxy Tags",
+        "num": 48,
+        "shortname": "NIP-48",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/48.md",
+        "description": "Proxy Tags",
         "deprecation_notice": null
     },
     {
-        "nip": 49,
-        "description": "NIP-49: Private Key Encryption",
+        "num": 49,
+        "shortname": "NIP-49",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/49.md",
+        "description": "Private Key Encryption",
         "deprecation_notice": null
     },
     {
-        "nip": 50,
-        "description": "NIP-50: Search Capability",
+        "num": 50,
+        "shortname": "NIP-50",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/50.md",
+        "description": "Search Capability",
         "deprecation_notice": null
     },
     {
-        "nip": 51,
-        "description": "NIP-51: Lists",
+        "num": 51,
+        "shortname": "NIP-51",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/51.md",
+        "description": "Lists",
         "deprecation_notice": null
     },
     {
-        "nip": 52,
-        "description": "NIP-52: Calendar Events",
+        "num": 52,
+        "shortname": "NIP-52",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/52.md",
+        "description": "Calendar Events",
         "deprecation_notice": null
     },
     {
-        "nip": 53,
-        "description": "NIP-53: Live Activities",
+        "num": 53,
+        "shortname": "NIP-53",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/53.md",
+        "description": "Live Activities",
         "deprecation_notice": null
     },
     {
-        "nip": 54,
-        "description": "NIP-54: Wiki",
+        "num": 54,
+        "shortname": "NIP-54",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/54.md",
+        "description": "Wiki",
         "deprecation_notice": null
     },
     {
-        "nip": 55,
-        "description": "NIP-55: Android Signer Application",
+        "num": 55,
+        "shortname": "NIP-55",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/55.md",
+        "description": "Android Signer Application",
         "deprecation_notice": null
     },
     {
-        "nip": 56,
-        "description": "NIP-56: Reporting",
+        "num": 56,
+        "shortname": "NIP-56",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/56.md",
+        "description": "Reporting",
         "deprecation_notice": null
     },
     {
-        "nip": 57,
-        "description": "NIP-57: Lightning Zaps",
+        "num": 57,
+        "shortname": "NIP-57",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/57.md",
+        "description": "Lightning Zaps",
         "deprecation_notice": null
     },
     {
-        "nip": 58,
-        "description": "NIP-58: Badges",
+        "num": 58,
+        "shortname": "NIP-58",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/58.md",
+        "description": "Badges",
         "deprecation_notice": null
     },
     {
-        "nip": 59,
-        "description": "NIP-59: Gift Wrap",
+        "num": 59,
+        "shortname": "NIP-59",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/59.md",
+        "description": "Gift Wrap",
         "deprecation_notice": null
     },
     {
-        "nip": 64,
-        "description": "NIP-64: Chess (PGN)",
+        "num": 64,
+        "shortname": "NIP-64",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/64.md",
+        "description": "Chess (PGN)",
         "deprecation_notice": null
     },
     {
-        "nip": 65,
-        "description": "NIP-65: Relay List Metadata",
+        "num": 65,
+        "shortname": "NIP-65",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/65.md",
+        "description": "Relay List Metadata",
         "deprecation_notice": null
     },
     {
-        "nip": 70,
-        "description": "NIP-70: Protected Events",
+        "num": 70,
+        "shortname": "NIP-70",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/70.md",
+        "description": "Protected Events",
         "deprecation_notice": null
     },
     {
-        "nip": 71,
-        "description": "NIP-71: Video Events",
+        "num": 71,
+        "shortname": "NIP-71",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/71.md",
+        "description": "Video Events",
         "deprecation_notice": null
     },
     {
-        "nip": 72,
-        "description": "NIP-72: Moderated Communities",
+        "num": 72,
+        "shortname": "NIP-72",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/72.md",
+        "description": "Moderated Communities",
         "deprecation_notice": null
     },
     {
-        "nip": 73,
-        "description": "NIP-73: External Content IDs",
+        "num": 73,
+        "shortname": "NIP-73",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/73.md",
+        "description": "External Content IDs",
         "deprecation_notice": null
     },
     {
-        "nip": 75,
-        "description": "NIP-75: Zap Goals",
+        "num": 75,
+        "shortname": "NIP-75",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/75.md",
+        "description": "Zap Goals",
         "deprecation_notice": null
     },
     {
-        "nip": 78,
-        "description": "NIP-78: Application-specific data",
+        "num": 78,
+        "shortname": "NIP-78",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/78.md",
+        "description": "Application-specific data",
         "deprecation_notice": null
     },
     {
-        "nip": 84,
-        "description": "NIP-84: Highlights",
+        "num": 84,
+        "shortname": "NIP-84",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/84.md",
+        "description": "Highlights",
         "deprecation_notice": null
     },
     {
-        "nip": 89,
-        "description": "NIP-89: Recommended Application Handlers",
+        "num": 89,
+        "shortname": "NIP-89",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/89.md",
+        "description": "Recommended Application Handlers",
         "deprecation_notice": null
     },
     {
-        "nip": 90,
-        "description": "NIP-90: Data Vending Machines",
+        "num": 90,
+        "shortname": "NIP-90",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/90.md",
+        "description": "Data Vending Machines",
         "deprecation_notice": null
     },
     {
-        "nip": 92,
-        "description": "NIP-92: Media Attachments",
+        "num": 92,
+        "shortname": "NIP-92",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/92.md",
+        "description": "Media Attachments",
         "deprecation_notice": null
     },
     {
-        "nip": 94,
-        "description": "NIP-94: File Metadata",
+        "num": 94,
+        "shortname": "NIP-94",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/94.md",
+        "description": "File Metadata",
         "deprecation_notice": null
     },
     {
-        "nip": 96,
-        "description": "NIP-96: HTTP File Storage Integration",
+        "num": 96,
+        "shortname": "NIP-96",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/96.md",
+        "description": "HTTP File Storage Integration",
         "deprecation_notice": null
     },
     {
-        "nip": 98,
-        "description": "NIP-98: HTTP Auth",
+        "num": 98,
+        "shortname": "NIP-98",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/98.md",
+        "description": "HTTP Auth",
         "deprecation_notice": null
     },
     {
-        "nip": 99,
-        "description": "NIP-99: Classified Listings",
+        "num": 99,
+        "shortname": "NIP-99",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/99.md",
+        "description": "Classified Listings",
         "deprecation_notice": null
     }
 ]

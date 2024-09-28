@@ -8,6 +8,8 @@ Usage: python3 read_nips_tables.py <path to NIPS repository>
 # SPDX-License-Identifier: MIT
 import re
 
+NIPS_BASE_URL = 'https://github.com/nostr-protocol/nips/blob/master/'
+
 def parse_md_table(lines, start_idx):
     idx = start_idx
     headers = []
@@ -51,7 +53,7 @@ def parse_nips_column(col):
     for ref in col.split(','):
         m = re.fullmatch(r'\[([0-9]+)\]\(([0-9]+).md\)', ref.strip())
         if m and m.group(1) == m.group(2):
-            nips.append(int(m.group(1)))
+            nips.append('NIP-' + m.group(1))
 
         m = re.fullmatch(r'(?:\[.*\])?\[(.*)\]', ref.strip())
         if m:
@@ -71,11 +73,13 @@ def parse_nips_list(lines):
 
     nips = []
     while lines[idx] != "" and lines[idx][0] == '-':
-        m = re.fullmatch(r'- \[(.*?)\]\(([0-9]+)\.md\)(?: --- (.*))?', lines[idx])
+        m = re.fullmatch(r'- \[(NIP-\d+): (.*?)\]\(([0-9]+).md\)(?: --- (.*))?', lines[idx])
         nips.append({
-            'nip': int(m.group(2)),
-            'description': m.group(1),
-            'deprecation_notice': m.group(3),
+            'num': int(m.group(3)),
+            'shortname': m.group(1),
+            'url': NIPS_BASE_URL + m.group(3) + '.md',
+            'description': m.group(2),
+            'deprecation_notice': m.group(4),
         })
         idx += 1
 
