@@ -179,6 +179,18 @@ def parse_tags_table(lines):
 
     return tags
 
+def parse_rogue_links(lines):
+    '''
+    Parse external links in the form
+    [NUD: Custom Feeds]: https://wikifreedia.xyz/cip-01/
+    '''
+    rv = []
+    for line in lines:
+        m = re.fullmatch(r'^\[(.*?)\]: (https://.*)', line)
+        if m:
+            rv.append((m.group(1), m.group(2)))
+    return rv
+
 def parse_nips_tables(filename):
     with open(filename, 'r') as f:
         lines = [l.rstrip() for l in f.readlines()]
@@ -189,11 +201,22 @@ def parse_nips_tables(filename):
     messages_to_client = parse_messages_table(lines, '### Relay to Client')
     tags = parse_tags_table(lines)
 
+    # insert external pseudo-nips
+    for (shortname, url) in parse_rogue_links(lines):
+        nips.append({
+            'num': None,
+            'shortname': shortname,
+            'url': url,
+            'description': '',
+            'deprecation_notice': None,
+        })
+
     return nips, kinds, messages_to_relay, messages_to_client, tags
 
 if __name__ == '__main__':
     import json, os, sys
     nips, kinds, messages_to_relay, messages_to_client, tags = parse_nips_tables(os.path.join(sys.argv[1], 'README.md'))
+
     os.makedirs('json', exist_ok=True)
     with open('json/nips.json', 'w') as f:
         json.dump(nips, f, indent=4)
