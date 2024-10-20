@@ -969,6 +969,16 @@
     },
     {
         "range": [
+            30388,
+            30388
+        ],
+        "description": "Slide Set",
+        "nips": [
+            "cornychat-slideset"
+        ]
+    },
+    {
+        "range": [
             30402,
             30402
         ],
@@ -1025,6 +1035,16 @@
         "description": "Redirects",
         "nips": [
             "NIP-54"
+        ]
+    },
+    {
+        "range": [
+            31388,
+            31388
+        ],
+        "description": "Link Set",
+        "nips": [
+            "cornychat-linkset"
         ]
     },
     {

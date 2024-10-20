@@ -95,13 +95,14 @@
     {
         "tag": "k",
         "required_parameters": [
-            "kind number (string)"
+            "kind"
         ],
         "other_parameters": [],
         "nips": [
             "NIP-18",
             "NIP-25",
-            "NIP-72"
+            "NIP-72",
+            "NIP-73"
         ]
     },
     {
@@ -141,7 +142,8 @@
             "event id (hex)"
         ],
         "other_parameters": [
-            "relay URL"
+            "relay URL",
+            "pubkey (hex)"
         ],
         "nips": [
             "NIP-18"

@@ -491,6 +491,20 @@
     },
     {
         "num": null,
+        "shortname": "cornychat-slideset",
+        "url": "https://cornychat.com/datatypes#kind30388slideset",
+        "description": "",
+        "deprecation_notice": null
+    },
+    {
+        "num": null,
+        "shortname": "cornychat-linkset",
+        "url": "https://cornychat.com/datatypes#kind31388linkset",
+        "description": "",
+        "deprecation_notice": null
+    },
+    {
+        "num": null,
         "shortname": "joinstr",
         "url": "https://gitlab.com/1440000bytes/joinstr/-/blob/main/NIP.md",
         "description": "",
