@@ -457,6 +457,36 @@
     },
     {
         "range": [
+            7374,
+            7374
+        ],
+        "description": "Reserved Cashu Wallet Tokens",
+        "nips": [
+            "NIP-60"
+        ]
+    },
+    {
+        "range": [
+            7375,
+            7375
+        ],
+        "description": "Cashu Wallet Tokens",
+        "nips": [
+            "NIP-60"
+        ]
+    },
+    {
+        "range": [
+            7376,
+            7376
+        ],
+        "description": "Cashu Wallet History",
+        "nips": [
+            "NIP-60"
+        ]
+    },
+    {
+        "range": [
             9000,
             9030
         ],
@@ -473,6 +503,16 @@
         "description": "Zap Goal",
         "nips": [
             "NIP-75"
+        ]
+    },
+    {
+        "range": [
+            9321,
+            9321
+        ],
+        "description": "Nutzap",
+        "nips": [
+            "NIP-61"
         ]
     },
     {
@@ -614,6 +654,16 @@
         "description": "Interests list",
         "nips": [
             "NIP-51"
+        ]
+    },
+    {
+        "range": [
+            10019,
+            10019
+        ],
+        "description": "Nutzap Mint Recommendation",
+        "nips": [
+            "NIP-61"
         ]
     },
     {
@@ -1139,22 +1189,22 @@
     },
     {
         "range": [
-            34237,
-            34237
-        ],
-        "description": "Video View Event",
-        "nips": [
-            "NIP-71"
-        ]
-    },
-    {
-        "range": [
             34550,
             34550
         ],
         "description": "Community Definition",
         "nips": [
             "NIP-72"
+        ]
+    },
+    {
+        "range": [
+            37375,
+            37375
+        ],
+        "description": "Cashu Wallet Event",
+        "nips": [
+            "NIP-60"
         ]
     },
     {

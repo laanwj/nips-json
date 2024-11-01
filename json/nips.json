@@ -357,6 +357,20 @@
         "deprecation_notice": null
     },
     {
+        "num": 60,
+        "shortname": "NIP-60",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/60.md",
+        "description": "Cashu Wallet",
+        "deprecation_notice": null
+    },
+    {
+        "num": 61,
+        "shortname": "NIP-61",
+        "url": "https://github.com/nostr-protocol/nips/blob/master/61.md",
+        "description": "Nutzaps",
+        "deprecation_notice": null
+    },
+    {
         "num": 64,
         "shortname": "NIP-64",
         "url": "https://github.com/nostr-protocol/nips/blob/master/64.md",
