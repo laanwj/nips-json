@@ -12,7 +12,7 @@ The `json` directory has the following files:
 - `messages_to_relay.json` - Messages from client to relay
 - `tags.json` - Tags table
 
-These have been updated for upstream commit `c275ae74eb0070ad7ac5fe2482fdfb91fc99f4ff`.
+These have been updated for upstream commit `b0840be3124ee04abadc68155d71dbd6abaa6bde`.
 
 ## Generation
 

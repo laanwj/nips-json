@@ -1209,6 +1209,16 @@
     },
     {
         "range": [
+            38383,
+            38383
+        ],
+        "description": "Peer-to-peer Order events",
+        "nips": [
+            "NIP-69"
+        ]
+    },
+    {
+        "range": [
             39000,
             39009
         ],
