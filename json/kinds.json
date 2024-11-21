@@ -103,9 +103,7 @@
             10
         ],
         "description": "Group Chat Threaded Reply",
-        "nips": [
-            "NIP-29"
-        ]
+        "nips": []
     },
     {
         "range": [
@@ -123,9 +121,7 @@
             12
         ],
         "description": "Group Thread Reply",
-        "nips": [
-            "NIP-29"
-        ]
+        "nips": []
     },
     {
         "range": [
@@ -285,6 +281,16 @@
         "description": "File Metadata",
         "nips": [
             "NIP-94"
+        ]
+    },
+    {
+        "range": [
+            1111,
+            1111
+        ],
+        "description": "Comment",
+        "nips": [
+            "NIP-22"
         ]
     },
     {

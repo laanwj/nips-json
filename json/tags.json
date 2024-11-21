@@ -1,5 +1,39 @@
 [
     {
+        "tag": "a",
+        "required_parameters": [
+            "coordinates to an event"
+        ],
+        "other_parameters": [
+            "relay URL"
+        ],
+        "nips": [
+            "NIP-01"
+        ]
+    },
+    {
+        "tag": "A",
+        "required_parameters": [
+            "root address"
+        ],
+        "other_parameters": [
+            "relay URL"
+        ],
+        "nips": [
+            "NIP-22"
+        ]
+    },
+    {
+        "tag": "d",
+        "required_parameters": [
+            "identifier"
+        ],
+        "other_parameters": [],
+        "nips": [
+            "NIP-01"
+        ]
+    },
+    {
         "tag": "e",
         "required_parameters": [
             "event id (hex)"
@@ -15,47 +49,25 @@
         ]
     },
     {
-        "tag": "p",
+        "tag": "E",
         "required_parameters": [
-            "pubkey (hex)"
-        ],
-        "other_parameters": [
-            "relay URL",
-            "petname"
-        ],
-        "nips": [
-            "NIP-01",
-            "NIP-02"
-        ]
-    },
-    {
-        "tag": "a",
-        "required_parameters": [
-            "coordinates to an event"
+            "root event id"
         ],
         "other_parameters": [
             "relay URL"
         ],
         "nips": [
-            "NIP-01"
+            "NIP-22"
         ]
     },
     {
-        "tag": "d",
+        "tag": "f",
         "required_parameters": [
-            "identifier"
+            "currency code"
         ],
         "other_parameters": [],
         "nips": [
-            "NIP-01"
-        ]
-    },
-    {
-        "tag": "-",
-        "required_parameters": [],
-        "other_parameters": [],
-        "nips": [
-            "NIP-70"
+            "NIP-69"
         ]
     },
     {
@@ -88,8 +100,19 @@
             "url hint"
         ],
         "nips": [
+            "NIP-35",
             "NIP-39",
             "NIP-73"
+        ]
+    },
+    {
+        "tag": "I",
+        "required_parameters": [
+            "root external identity"
+        ],
+        "other_parameters": [],
+        "nips": [
+            "NIP-22"
         ]
     },
     {
@@ -103,6 +126,16 @@
             "NIP-25",
             "NIP-72",
             "NIP-73"
+        ]
+    },
+    {
+        "tag": "K",
+        "required_parameters": [
+            "root scope"
+        ],
+        "other_parameters": [],
+        "nips": [
+            "NIP-22"
         ]
     },
     {
@@ -134,6 +167,20 @@
         "other_parameters": [],
         "nips": [
             "NIP-94"
+        ]
+    },
+    {
+        "tag": "p",
+        "required_parameters": [
+            "pubkey (hex)"
+        ],
+        "other_parameters": [
+            "relay URL",
+            "petname"
+        ],
+        "nips": [
+            "NIP-01",
+            "NIP-02"
         ]
     },
     {
@@ -173,6 +220,16 @@
         ]
     },
     {
+        "tag": "s",
+        "required_parameters": [
+            "status"
+        ],
+        "other_parameters": [],
+        "nips": [
+            "NIP-69"
+        ]
+    },
+    {
         "tag": "t",
         "required_parameters": [
             "hashtag"
@@ -180,7 +237,57 @@
         "other_parameters": [],
         "nips": [
             "NIP-24",
-            "NIP-34"
+            "NIP-34",
+            "NIP-35"
+        ]
+    },
+    {
+        "tag": "u",
+        "required_parameters": [
+            "url"
+        ],
+        "other_parameters": [],
+        "nips": [
+            "NIP-61",
+            "NIP-98"
+        ]
+    },
+    {
+        "tag": "x",
+        "required_parameters": [
+            "infohash"
+        ],
+        "other_parameters": [],
+        "nips": [
+            "NIP-35"
+        ]
+    },
+    {
+        "tag": "y",
+        "required_parameters": [
+            "platform"
+        ],
+        "other_parameters": [],
+        "nips": [
+            "NIP-69"
+        ]
+    },
+    {
+        "tag": "z",
+        "required_parameters": [
+            "order number"
+        ],
+        "other_parameters": [],
+        "nips": [
+            "NIP-69"
+        ]
+    },
+    {
+        "tag": "-",
+        "required_parameters": [],
+        "other_parameters": [],
+        "nips": [
+            "NIP-70"
         ]
     },
     {
@@ -307,6 +414,16 @@
         "other_parameters": [],
         "nips": [
             "NIP-40"
+        ]
+    },
+    {
+        "tag": "file",
+        "required_parameters": [
+            "full path (string)"
+        ],
+        "other_parameters": [],
+        "nips": [
+            "NIP-35"
         ]
     },
     {
@@ -509,6 +626,16 @@
         "other_parameters": [],
         "nips": [
             "NIP-23"
+        ]
+    },
+    {
+        "tag": "tracker",
+        "required_parameters": [
+            "torrent tracker URL"
+        ],
+        "other_parameters": [],
+        "nips": [
+            "NIP-35"
         ]
     },
     {
