@@ -92,9 +92,9 @@
             9,
             9
         ],
-        "description": "Group Chat Message",
+        "description": "Chat Message",
         "nips": [
-            "NIP-29"
+            "NIP-C7"
         ]
     },
     {
@@ -110,9 +110,9 @@
             11,
             11
         ],
-        "description": "Group Thread",
+        "description": "Thread",
         "nips": [
-            "NIP-29"
+            "NIP-7D"
         ]
     },
     {
