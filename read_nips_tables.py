@@ -51,7 +51,7 @@ def parse_nips_column(col):
     nips = []
 
     for ref in col.split(','):
-        m = re.fullmatch(r'\[([0-9]+)\]\(([0-9]+).md\)', ref.strip())
+        m = re.fullmatch(r'\[([0-9A-Z]+)\]\(([0-9A-Z]+).md\)', ref.strip())
         if m and m.group(1) == m.group(2):
             nips.append('NIP-' + m.group(1))
 
@@ -73,9 +73,8 @@ def parse_nips_list(lines):
 
     nips = []
     while lines[idx] != "" and lines[idx][0] == '-':
-        m = re.fullmatch(r'- \[(NIP-\d+): (.*?)\]\(([0-9]+).md\)(?: --- (.*))?', lines[idx])
+        m = re.fullmatch(r'- \[(NIP-[0-9A-Z]+): (.*?)\]\(([0-9A-Z]+).md\)(?: --- (.*))?', lines[idx])
         nips.append({
-            'num': int(m.group(3)),
             'shortname': m.group(1),
             'url': NIPS_BASE_URL + m.group(3) + '.md',
             'description': m.group(2),
@@ -204,7 +203,6 @@ def parse_nips_tables(filename):
     # insert external pseudo-nips
     for (shortname, url) in parse_rogue_links(lines):
         nips.append({
-            'num': None,
             'shortname': shortname,
             'url': url,
             'description': '',
